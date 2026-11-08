@@ -2,7 +2,7 @@
 
 Mobile-friendly history revision notes and guided sentence-choice SAQ practice.
 
-[Open the private study guide](https://persia-qin-saq-lab.siegsin.chatgpt.site)
+[Open the study guide on GitHub Pages](https://siegfried3991.github.io/persia-qin-saq-lab/)
 
 ## Run locally
 
@@ -23,7 +23,7 @@ The guide does not claim to grade an unavailable student Qin response. Its pract
 
 ## Privacy
 
-Progress is saved only in the current browser. This standalone guide has no student accounts and does not sync with Teams or Quest Campus. The repository and existing hosted website remain private; GitHub Pages is not enabled.
+Progress is saved only in the current browser. This standalone guide has no student accounts and does not sync with Teams or Quest Campus. The repository and GitHub Pages website are public. Practice choices and progress are not uploaded to GitHub. The earlier ChatGPT Sites copy is separate.
 
 ## Verification
 
